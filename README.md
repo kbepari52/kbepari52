@@ -5,23 +5,59 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kbepari52" alt="kbepari52" /></a> </p>
 
-- 🔭 I’m currently working on **Vulnerability Assessment and Penetration Testing projects, including web and network security, and developing tools/scripts to automate security testing workflows.**
+<br clear="both">
 
-- 👯 I’m looking to collaborate on **Open-source cybersecurity tools, ethical hacking projects, security research initiatives, bug bounty programs, and CTF challenges.**
+<h3 align="left">🔭 I’m currently working on :</h3>
 
-- 🤝 I’m looking for help with **Advanced exploitation techniques, defensive security strategies, and integrating cloud security best practices into pentesting workflows.**
+###
 
-- 🌱 I’m currently learning **Advanced web application security, OSINT, real-world attack simulation, and new tools/frameworks for automated vulnerability scanning.**
+<p align="left">Vulnerability Assessment and Penetration Testing projects, including web and network security, and developing tools/scripts to automate security testing workflows.</p>
 
-- 💬 Ask me about **Web application security (SQLi, XSS, IDOR, SSRF, CSRF), Networking fundamentals (TCP/IP, DNS, VPN), Bug bounty programs, and responsible disclosure practices.**
+###
 
-- ⚡ Fun fact: **I’ve reported and helped fix multiple vulnerabilities through OpenBugBounty.org and private programs. I love hosting CTF hackathons and guiding students in hands-on security labs.**
+<h3 align="left">👯 I’m looking to collaborate on:</h3>
+
+###
+
+<p align="left">Open-source cybersecurity tools, ethical hacking projects, security research initiatives, bug bounty programs, and CTF challenges.</p>
+
+###
+
+<h3 align="left">🤝 I’m looking for help with:</h3>
+
+###
+
+<p align="left">Advanced exploitation techniques, defensive security strategies, and integrating cloud security best practices into pentesting workflows.</p>
+
+###
+
+<h3 align="left">🌱 I’m currently learning:</h3>
+
+###
+
+<p align="left">Advanced web application security, OSINT, real-world attack simulation, and new tools/frameworks for automated vulnerability scanning.</p>
+
+###
+
+<h3 align="left">💬 Ask me about:</h3>
+
+###
+
+<p align="left">Web application security (SQLi, XSS, IDOR, SSRF, CSRF), Networking fundamentals (TCP/IP, DNS, VPN), Bug bounty programs, and responsible disclosure practices.</p>
+
+###
+
+<h3 align="left">⚡ Fun fact:</h3>
+
+###
+
+<p align="left">I’ve reported and helped fix multiple vulnerabilities through OpenBugBounty.org and private programs. I love hosting CTF hackathons and guiding students in hands-on security labs.</p>
+
+###
 
 - 📫 How to reach me **kbepari52@gmail.com**
 
 - 📄 Know about my experiences [my-resume](https://krishanu-bepari-resume.tiiny.site)
-
-- ⚡ Fun fact **I’ve reported and helped fix multiple vulnerabilities through OpenBugBounty.org and private programs. I love hosting CTF hackathons and guiding students in hands-on security labs.**
 
 ###
 
@@ -39,7 +75,7 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<img align="right" height="150" src="https://i.ibb.co/TBybz5Pp/giphy.gif"  />
+<img align="right" height="250" src="https://i.ibb.co/TBybz5Pp/giphy.gif"  />
 
 ###
 <h3 align="left">Languages and Tools:</h3>
