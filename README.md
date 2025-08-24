@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Krishanu Bepari</h1>
+<div align="center">
+  <img height="200" src="https://i.ibb.co/PvhqgShh/github-header-banner.png"  />
+</div>
+
 <h3 align="center">A passionate Penetration Tester | VAPT Analyst | Ethical Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbepari52&label=Profile%20views&color=0e75b6&style=flat" alt="kbepari52" /> </p>
@@ -75,36 +78,38 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<img align="right" height="250" src="https://i.ibb.co/TBybz5Pp/giphy.gif"  />
-
-###
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" alt="php logo"  />
-   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30" alt="photoshop logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="55" alt="arduino logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="55" alt="c logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="55" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="55" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="55" alt="bootstrap logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="55" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="55" alt="php logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo"  />
 </div>
 
 ###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krishanu52" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="krishanu52" /></a>
-</p>
+<h3 align="center">Connect with me:</h3>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/krishanu52" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
